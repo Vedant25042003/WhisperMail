@@ -18,6 +18,7 @@ This project is a web-based application that allows users to:
 - **SMTP Server**: Supports Gmail for email functionality
 
 ## Project Structure
+$tree
 ├── app.py # Main application file with Flask server
 ├── uploads # For storing attachments Temporarily
 ├── templates/ 
