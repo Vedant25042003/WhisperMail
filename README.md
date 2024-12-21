@@ -19,6 +19,7 @@ This project is a web-based application that allows users to:
 
 ## Project Structure
 $tree
+.
 ├── app.py # Main application file with Flask server
 ├── uploads # For storing attachments Temporarily
 ├── templates/ 
