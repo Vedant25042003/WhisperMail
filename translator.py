@@ -15,13 +15,6 @@ app = Flask(__name__)
 recognizer = sr.Recognizer()
 translator = Translator()
 
-# Email configuration
-# 'wnon lavf hvxj ojqe'
-# SMTP_SERVER = 'smtp.gmail.com'
-# SMTP_PORT = 587
-# SENDER_EMAIL = input("")  
-# SENDER_PASSWORD = input("") 
-
 
 # Function to translate text
 def translate_text(text, output_lang):
